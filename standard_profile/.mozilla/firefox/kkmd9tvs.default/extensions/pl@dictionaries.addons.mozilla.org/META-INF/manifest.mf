@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: o2q7eEEy59UTlMQZSNcuhw==
+SHA1-Digest: hk04s7VAANJbasYLqSRT3Ob1SiQ=
+
+Name: dictionaries/pl.aff
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BkJOkttFcQqWHAJNon8jWg==
+SHA1-Digest: +bnxkez4TqO5cXM2ViHSmrvuYj8=
+
+Name: dictionaries/pl.dic
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Tq/ERFM56MyZfWflVQHrIQ==
+SHA1-Digest: derJILd/eRZXoDqfgLVekoIv3xI=
+
