@@ -54,3 +54,12 @@ I share it with you for inspiration, please adjust it to your preferences.
   - jessie-minimal - minimal set for every user, Debian 8 and newest experimental Iceweasel
   - 
   
+## gnome config known issues and suggestions
+  - bluetooth settings depend on hardware
+  - change language, input language and format
+  - enable time sync, timezone (after changing ntp servers in /etc/systemd/timesyncd.conf)
+  - diable system notification sound
+  - remove interfaces other than lo from /etc/network/interfaces to manage it using NetworkManager
+  - delete default dirs in home dir
+  - delete bookmarks in nautilus
+  - for some users, desktop icons are needed
