@@ -46,13 +46,12 @@ Fonts:
   - [Lato font](http://www.latofonts.com/lato-free-fonts/),
   - [Open Sans and Open Sans Condensed by Steve Matteson](https://en.wikipedia.org/wiki/Open_Sans)
   - [Source Sans and Source Code](https://github.com/adobe-fonts/source-sans-pro)
+  - [Hack](TODO)
 
 I share it with you for inspiration, please adjust it to your preferences.
 
 ## branches
-  - master - minimal set for every user, Debian 9 and newest experimental Iceweasel
-  - jessie-minimal - minimal set for every user, Debian 8 and newest experimental Iceweasel
-  - 
+  - master - minimal set for every user, Debian 8/9 and newest stable Iceweasel.
   
 ## gnome config known issues and suggestions
   - bluetooth settings depend on hardware

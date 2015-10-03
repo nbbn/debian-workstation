@@ -30,7 +30,7 @@ dconf write /org/gnome/settings-daemon/plugins/cursor/active false
 dconf write /org/gnome/desktop/wm/preferences/titlebar-font "'Open Sans Bold 10'"
 dconf write /org/gnome/desktop/interface/font-name "'Open Sans 10'"
 dconf write /org/gnome/desktop/interface/document-font-name "'Open Sans 10'"
-dconf write /org/gnome/desktop/interface/monospace-font-name "'Inconsolata Medium 10'"
+dconf write /org/gnome/desktop/interface/monospace-font-name "'Hack 10'"
 dconf write /org/gnome/settings-daemon/plugins/xsettings/antialiasing "'rgba'"
 dconf write /org/gnome/desktop/wm/preferences/num-workspaces 1
 dconf write /org/gnome/shell/overrides/dynamic-workspaces false
