@@ -6,7 +6,7 @@ Desktop metaphor is provided using modified window-list extension and others ext
 Second goal is to provide standard configuration of tools, that I install on every workstation. List of all tools is below.
 All encodings, etc. are focused on using Polish and support ą, ę, ł, etc., but localization is en_US.
 
-Everything is tested on Debian 8 and **Debian Stretch** (Gnome 3.16).
+Everything is tested on Debian 8.
 
 ### global config
 For font installation and gnome theme and extension modifications:
@@ -33,7 +33,7 @@ These configuration files are for (it depends on branch):
   - qnapi
   - redshift
   - bleachbit, review befor running `bleachbit --preset -c`
-  - firefox 38
+  - firefox
   - terminator
   - modified default gnome3 appearance
   - modified window-list extension for gnome3, not ugly anymore
