@@ -46,7 +46,7 @@ Fonts:
   - [Lato font](http://www.latofonts.com/lato-free-fonts/),
   - [Open Sans and Open Sans Condensed by Steve Matteson](https://en.wikipedia.org/wiki/Open_Sans)
   - [Source Sans and Source Code](https://github.com/adobe-fonts/source-sans-pro)
-  - [Hack](TODO)
+  - [Hack](https://github.com/chrissimpkins/Hack)
 
 I share it with you for inspiration, please adjust it to your preferences.
 
